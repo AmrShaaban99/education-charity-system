@@ -1,2 +1,2 @@
 # education-charity-system
-<video src='videoReadme/video.mp4' />
+<video src='https://youtu.be/CusrMrEHm1I' />
