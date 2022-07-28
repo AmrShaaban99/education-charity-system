@@ -1,2 +1,2 @@
 # education-charity-system
-![Demo website](readme video/video.mp4)
+[![Demo website](video readme/video.mp4)](video readme/video.mp4)
